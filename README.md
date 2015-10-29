@@ -1,2 +1,3 @@
 # Machine_Learning
-Severl scripts to illustrate basic machine learning concepts
+Several scripts to illustrate basic machine learning concepts
+

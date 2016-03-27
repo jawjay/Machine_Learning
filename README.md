@@ -1,9 +1,7 @@
 # Machine_Learning
 
 MATLAB implementations of several basic Machine Learning algorithms/concepts completed at Washington University in St.Louis for courses 417 & 517a.
-
-
-
+Concepts:
 
 1. Logistic Regression
 2. Legendre Polynomials with glmfit

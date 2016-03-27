@@ -4,16 +4,12 @@ MATLAB implementations of several basic Machine Learning algorithms/concepts com
 
 
 
-417 Files:
-Project 3: Logistic Regression
-Project 5: Legendre Polynomials with glmfit
-Project 6: Bagged Decision Trees and AdaBoost
 
-517 Files:
-
-Project 1: kNN 
-Project 2: Perceptron
-Project 3: Naive Bayes
-Project 4: Gradient Descent 
-Project 5: Bias Variance Trade-Off
+1. Logistic Regression
+2. Legendre Polynomials with glmfit
+3. Bagged Decision Trees and AdaBoost
+4. Perceptron
+5. Naive Bayes
+6. Gradient Descent 
+7. Bias Variance Trade-Off
 
